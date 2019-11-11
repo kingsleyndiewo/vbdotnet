@@ -1,0 +1,10 @@
+N:\Code Factory\Funtrench VB.NET Works\Serial Talk\Serial Talk\bin\Release\Serial Talk.exe
+N:\Code Factory\Funtrench VB.NET Works\Serial Talk\Serial Talk\bin\Release\Serial Talk.pdb
+N:\Code Factory\Funtrench VB.NET Works\Serial Talk\Serial Talk\bin\Release\Serial Talk.xml
+N:\Code Factory\Funtrench VB.NET Works\Serial Talk\Serial Talk\obj\Release\ResolveAssemblyReference.cache
+N:\Code Factory\Funtrench VB.NET Works\Serial Talk\Serial Talk\obj\Release\Serial_Talk.frmMain.resources
+N:\Code Factory\Funtrench VB.NET Works\Serial Talk\Serial Talk\obj\Release\Serial_Talk.Resources.resources
+N:\Code Factory\Funtrench VB.NET Works\Serial Talk\Serial Talk\obj\Release\Serial Talk.vbproj.GenerateResource.Cache
+N:\Code Factory\Funtrench VB.NET Works\Serial Talk\Serial Talk\obj\Release\Serial Talk.exe
+N:\Code Factory\Funtrench VB.NET Works\Serial Talk\Serial Talk\obj\Release\Serial Talk.xml
+N:\Code Factory\Funtrench VB.NET Works\Serial Talk\Serial Talk\obj\Release\Serial Talk.pdb
